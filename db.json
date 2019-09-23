@@ -1,0 +1,49 @@
+{
+    "results": [
+    {
+        "id": 7,
+        "device_id": 5,
+        "longitude": 8.9934823,
+        "latitude": 38.7277566,
+        "locationImage": "location image",
+        "locationDescription": "location description",
+        "locationName": "location name"
+    },
+    {
+        "id": 4,
+        "device_id": 4,
+        "longitude": 8.9858803,
+        "latitude": 38.6983505,
+        "locationImage": "",
+        "locationDescription": "",
+        "locationName": ""
+    },
+    {
+        "id": 3,
+        "device_id": 3,
+        "longitude": 8.9954046,
+        "latitude": 38.6060323,
+        "locationImage": "",
+        "locationDescription": "",
+        "locationName": ""
+    },
+    {
+        "id": 2,
+        "device_id": 2,
+        "longitude": 8.9934046,
+        "latitude": 38.7060323,
+        "locationImage": "",
+        "locationDescription": "",
+        "locationName": ""
+    },
+    {
+        "id": 1,
+        "device_id": 1,
+        "longitude": 8.9834046,
+        "latitude": 38.7060323,
+        "locationImage": "",
+        "locationDescription": "",
+        "locationName": ""
+    }
+]
+}
