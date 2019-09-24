@@ -8,6 +8,14 @@
         "locationImage": "location image",
         "locationDescription": "location description",
         "locationName": "location name"
+    },{
+        "id": 7,
+        "device_id": 5,
+        "longitude": 8.9934823,
+        "latitude": 38.7277566,
+        "locationImage": "location image",
+        "locationDescription": "location description",
+        "locationName": "location name"
     },
     {
         "id": 4,
